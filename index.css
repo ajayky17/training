@@ -1,0 +1,17 @@
+
+a{
+    color:green;
+}
+div{
+    border: 5px solid black ;
+    
+}
+
+ body{
+    background-color: brown;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 100svh;
+ }
